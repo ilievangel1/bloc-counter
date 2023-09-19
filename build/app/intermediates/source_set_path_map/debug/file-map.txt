@@ -1,0 +1,12 @@
+com.example.flutter_bloc.app-jetified-window-1.0.0-beta04-0 /Users/angeliliev/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.flutter_bloc.app-jetified-annotation-experimental-1.1.0-1 /Users/angeliliev/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.flutter_bloc.app-core-1.6.0-2 /Users/angeliliev/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.flutter_bloc.app-jetified-window-java-1.0.0-beta04-3 /Users/angeliliev/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.flutter_bloc.app-debug-4 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/android/app/src/debug/res
+com.example.flutter_bloc.app-main-5 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/android/app/src/main/res
+com.example.flutter_bloc.app-pngs-6 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/build/app/generated/res/pngs/debug
+com.example.flutter_bloc.app-resValues-7 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/build/app/generated/res/resValues/debug
+com.example.flutter_bloc.app-rs-8 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/build/app/generated/res/rs/debug
+com.example.flutter_bloc.app-mergeDebugResources-9 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.flutter_bloc.app-mergeDebugResources-10 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.flutter_bloc.app-merged_res-11 /Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/build/app/intermediates/merged_res/debug

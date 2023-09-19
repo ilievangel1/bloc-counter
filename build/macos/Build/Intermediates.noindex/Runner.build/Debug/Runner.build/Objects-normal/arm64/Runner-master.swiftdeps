@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "ece0556531cbf7310a35a5bf33f3419f10261c982c5371bf22d4036665fa1c21"
+build_start_time: [1693468915, 941628932]
+build_end_time: [1693468917, 474733829]
+inputs:
+  "/Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/macos/Flutter/GeneratedPluginRegistrant.swift": [1693468909, 678661108]
+  "/Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/macos/Runner/AppDelegate.swift": [1689202870, 0]
+  "/Users/angeliliev/development/projects/flutter/flutter-bloc-test/flutter_bloc/macos/Runner/MainFlutterWindow.swift": [1689202870, 0]
